@@ -1,8 +1,8 @@
 # UTS Web I — Pemesanan Kantin Kampus
 
-- Nama: ISI NAMA LENGKAP
-- NIM: ISI NIM
-- Kelas: ISI KELAS
+- Nama: Muhmmad zaki
+- NIM: 25012061
+- Kelas: 25M31
 - Mata kuliah: Web I
 
 ## Deskripsi
